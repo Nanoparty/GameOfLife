@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\Nate\Documents\GameDev\GameOfLife\Game of Life\Game of Life\Main.cpp(51,69): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nate\Documents\GameDev\GameOfLife\Game of Life\Game of Life\Main.cpp(51,54): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Game of Life.vcxproj -> C:\Users\Nate\Documents\GameDev\GameOfLife\Game of Life\x64\Debug\Game of Life.exe
